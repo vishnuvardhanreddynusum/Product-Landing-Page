@@ -93,7 +93,8 @@ header {
   color:#758079
 }
 h1,h2,h3,p {
-  margin-top:0
+  margin-top:0;
+  font-family:Times New Roman;
 }
 h1 {
   font-size:clamp(50px,7vw,88px);
